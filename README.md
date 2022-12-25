@@ -3,7 +3,7 @@ Windows，Linux网络通信相关
 class mysocket 
 构造函数：
 win 
-SOCKET mysocket(string s)//s=tcp||udp
+SOCKET mysocket(string s)//s=tcp||udp  
 linux
 int mysocket(string s)//s=tcp||udp
 
